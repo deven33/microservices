@@ -1,6 +1,5 @@
 package com.deven.microservices.currencyexchangeservice;
 
-import java.math.BigDecimal;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
